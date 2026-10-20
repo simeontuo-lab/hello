@@ -1,2 +1,2 @@
 # hello
-cst
+I wan to be the manager
